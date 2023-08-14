@@ -1,4 +1,4 @@
-package com.mattcoleanderson;
+package com.mattcoleanderson.learn.algs4;
 
 public class HelloGoodbye {
   public static void main(String[] args) {

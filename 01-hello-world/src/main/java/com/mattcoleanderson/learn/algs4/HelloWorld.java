@@ -1,4 +1,4 @@
-package com.mattcoleanderson;
+package com.mattcoleanderson.learn.algs4;
 
 /** Hello world! */
 public class HelloWorld {
