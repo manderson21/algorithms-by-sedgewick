@@ -1,7 +1,10 @@
-target/
 
+# Java JDTLs LSP
+.settings/
 .classpath
 .project
-.settings
 
-submissions/
+# Maven
+dependency-reduced-pom.xml
+target/
+
